@@ -4,7 +4,7 @@
   {licenses, ["Apache 2.0"]},
   {maintainers, ["Seth Falcon", "Drew Kerrigan", "Randy Secrist"]},
   {links, [{"Github", "https://github.com/seth/pooler"}]},
-  {vsn, "1.5.3"},
+  {vsn, "1.50.4"},
   {registered, []},
   {applications, [
                   kernel,
