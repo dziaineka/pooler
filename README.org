@@ -1,3 +1,5 @@
+> This fork created only to merge pull requests https://github.com/seth/pooler/pull/80 and https://github.com/seth/pooler/pull/74 to make pooler compatible with erlang 25. It can be replaced by hex version if hex version will be updated.
+
 * pooler - An OTP Process Pool Application
 
 The pooler application allows you to manage pools of OTP behaviors
